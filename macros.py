@@ -16,8 +16,8 @@ logging.basicConfig(
 	level=logging.INFO
 )
 
-cti_user = 'jeff@aguafria.org'
-cti_pass = 'sundevil'
+cti_user = 'ctiuser'
+cti_pass = 'ctipassword'
 
 
 def keypad(num):
