@@ -1,8 +1,3 @@
-"""
-Author: Jeff Levensailor
-Email: jeff@levensailor.com
-https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cuipph/all_models/xsi/9-1-1/CUIP_BK_P82B3B16_00_phones-services-application-development-notes.html
-"""
 import argparse
 import csv
 import logging
